@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+.atas {
+    background-color: brown;
+    color: white;
+    display: flex;
+    text-align: center;
+}

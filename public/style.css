@@ -1,0 +1,13 @@
+body {
+    min-height: 1250px;
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #bdc5be;
+}
+section {
+    padding-top: 5rem;
+}
+#subject {
+    background-color: #bdc5be;
+}
