@@ -1,9 +1,20 @@
 body {
     margin: 0;
+    font-family: "Nunito", sans-serif;
 }
 .atas {
+    position: relative;
     background-color: brown;
     color: white;
     display: flex;
     text-align: center;
+    padding-left: 10mm;
+}
+.msa {
+    position: relative;
+    display: flex;
+    height: 9mm;
+    align-items: center;
+    text-align: center;
+    top: 1.2em;
 }
